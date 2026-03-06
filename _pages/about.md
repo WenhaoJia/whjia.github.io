@@ -61,10 +61,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.01*, IEEE Transactions on Smart Grid Best Paper Award
 - *2022.11*, Gold Prize for Seoul International Invention Fair Nov 2022
 - *2022.03*, Silver Prize for International Exhibition of Inventions of Geneva Mar 2022
-- *2024.07*, Undergraduate National Scholarship Dec 2025, 2022, 2021
-- *2021.12*, Pacemaker to Merit Student Dec 2021
-- *2021.11*, Academic Star Nov 2021
-- 
+- *2025.12*, Undergraduate National Scholarship
+- *2022.12*, Undergraduate National Scholarship
+- *2021.12*, Undergraduate National Scholarship
+- *2021.12*, Pacemaker to Merit Student
+- *2021.11*, Academic Star
+
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
