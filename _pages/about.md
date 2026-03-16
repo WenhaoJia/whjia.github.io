@@ -28,6 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+- **W. Jia**, T. Ding, and Y. He, “Synergistic integration of green hydrogen in renewable power systems: A comprehensive review of key technologies, research landscape, and future perspectives,” Renewable and Sustainable Energy Reviews, vol. 226, p. 116 375, 2026.
+- **W. Jia**, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” Applied Energy, vol. 377, p. 124 369, 2025.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
