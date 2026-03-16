@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenhao Jia"
-description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D."
 repository               : "WenhaoJia/wenhaojia.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=J2OGrDMAAAAJ&hl"
   email            : "jiawenhao@stu.xjtu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Wenhao-Jia-5"
+  researchgate     : "https://www.researchgate.net/profile/Wenhao-Jia-5"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Wenhao Jia"
+  github           : "WenhaoJia"
   google_plus      :
   keybase          :
   instagram        :
