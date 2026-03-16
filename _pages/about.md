@@ -38,6 +38,12 @@ My research interest includes neural machine translation and computer vision. I 
 - <u><b>W. Jia</b></u>, T. Ding, and M. Shahidehpour, “Second-order cone programming for data-driven fluid and gas energy flow with a tight reformulation,” **IEEE Transactions on Power Systems**, vol. 36, no. 2, pp. 1652–1655, 2021.
 - <u><b>W. Jia</b></u>, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” **IEEE Transactions on Circuits and Systems II: Express Briefs**, vol. 68, no. 1, pp. 496–500, 2021.
 
+## Chinese Journal Papers
+- <u><b>W. Jia</b></u>, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” Proceedings of the CSEE, vol. 40, no. 24, 2020. (In Chinese)
+
+## Conference Papers
+- <u><b>W. Jia</b></u>, T. Ding, C. Mu, F. Song, C. Liang, and C. Chen, “Distributionally robust chance-constrained dispatch for mobile hydrogen energy systems under supply and demand uncertainties,” in 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024, pp. 1–5.
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
