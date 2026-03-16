@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
+## Journal Papers
 - <u><b>W. Jia</b></u>, T. Ding, and Y. He, “Synergistic integration of green hydrogen in renewable power systems: A comprehensive review of key technologies, research landscape, and future perspectives,” **Renewable and Sustainable Energy Reviews**, vol. 226, p. 116 375, 2026.
 - <u><b>W. Jia</b></u>, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” **Applied Energy**, vol. 377, p. 124 369, 2025.
 - <u><b>W. Jia</b></u>, T. Ding, Y. Yuan, and H. Zhang, “Fast probabilistic energy flow calculation for natural gas systems: A convex multiparametric programming approach,” **IEEE Transactions on Automation Science and Engineering**, vol. 22, pp. 6786–6796, 2025.
