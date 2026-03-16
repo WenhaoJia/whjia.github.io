@@ -57,15 +57,15 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🎖 Honors and Awards
-- *2025.12*, 2025 IEEE Transactions on Sustainable Energy Outstanding Reviewer. 
-- *2025.01*, Doctoral Student Program of the Young S\&T Talents Cultivation Project.
-- *2024.07*, 2024 IEEE PESGM PCCC Student Research Showcase Distinguished Speaker.
-- *2023.01*, 2022 IEEE Transactions on Smart Grid Best Paper Award.
-- *2022.11*, Gold Prize for Seoul International Invention Fair.
-- *2022.03*, Silver Prize for International Exhibition of Inventions of Geneva.
-- *2025.12/2022.12/2021.12*, Undergraduate National Scholarship.
-- *2021.12*, Pacemaker to Merit Student.
-- *2021.11*, Academic Star.
+- 2025 IEEE Transactions on Sustainable Energy Outstanding Reviewer, Dec 2025. 
+- Doctoral Student Program of the Young S\&T Talents Cultivation Project, Jan 2025.
+- 2024 IEEE PESGM PCCC Student Research Showcase Distinguished Speaker, Jul 2024.
+- 2022 IEEE Transactions on Smart Grid Best Paper Award, Jan 2023.
+- Gold Prize for Seoul International Invention Fair, Nov 2022.
+- Silver Prize for International Exhibition of Inventions of Geneva, Mar 2022.
+- Undergraduate National Scholarship, Dec 2025, 2022, 2021.
+- Pacemaker to Merit Student, Dec 2021.
+- Academic Star, Nov 2021.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
