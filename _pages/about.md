@@ -65,8 +65,8 @@ My research interest includes neural machine translation and computer vision. I 
 - Gold Prize for Seoul International Invention Fair, Nov 2022.
 - Silver Prize for International Exhibition of Inventions of Geneva, Mar 2022.
 - Undergraduate National Scholarship, Dec 2025, 2022, 2021.
-- Pacemaker to Merit Student, Dec 2021.
-- Academic Star, Nov 2021.
+- Pacemaker to Merit Student of Xi'an Jiaotong University, Dec 2021.
+- Academic Star of Xi'an Jiaotong University, Nov 2021.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
