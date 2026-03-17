@@ -74,11 +74,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💬 Talks
 ## Invited Talks
-- *2025.09*, “Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems”, 17th International Conference on New Power System Technology, Hefei, China, Sept 2025.
-- *2022.04*, “Convex Energy Functions for Natural Gas Systems and Applications”, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China, April 2022.
+- *2025.09*, “Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems”, 17th International Conference on New Power System Technology, Hefei, China.
+- *2022.04*, “Convex Energy Functions for Natural Gas Systems and Applications”, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China.
 
 ## Oral Presentation
-- *2024.07*, “Benchmark datasets for fluid flow analysis”, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA, July 2024.
+- *2024.07*, “Benchmark datasets for fluid flow analysis”, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA.
 
 <!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
