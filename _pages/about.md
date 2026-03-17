@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📝 Publications 
-## 📖 Journal Papers
+## 📝 Journal Papers
 1. **W. Jia**, T. Ding, and Y. He, “Synergistic integration of green hydrogen in renewable power systems: A comprehensive review of key technologies, research landscape, and future perspectives,” *Renewable and Sustainable Energy Reviews*, vol. 226, p. 116 375, 2026.
 1. **W. Jia**, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” *Applied Energy*, vol. 377, p. 124 369, 2025.
 1. **W. Jia**, T. Ding, Y. Yuan, and H. Zhang, “Fast probabilistic energy flow calculation for natural gas systems: A convex multiparametric programming approach,” *IEEE Transactions on Automation Science and Engineering*, vol. 22, pp. 6786–6796, 2025.
@@ -39,10 +39,10 @@ My research interest includes neural machine translation and computer vision. I 
 1. **W. Jia**, T. Ding, and M. Shahidehpour, “Second-order cone programming for data-driven fluid and gas energy flow with a tight reformulation,” *IEEE Transactions on Power Systems*, vol. 36, no. 2, pp. 1652–1655, 2021.
 1. **W. Jia**, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 68, no. 1, pp. 496–500, 2021.
 
-## 📖 Chinese Journal Papers
+## 📝 Chinese Journal Papers
 1. **W. Jia**, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” *Proceedings of the CSEE*, vol. 40, no. 24, 2020. (In Chinese)
 
-## 📖 Conference Papers
+## 📝 Conference Papers
 1. **W. Jia**, T. Ding, C. Mu, F. Song, C. Liang, and C. Chen, “Distributionally robust chance-constrained dispatch for mobile hydrogen energy systems under supply and demand uncertainties,” in *2024 IEEE Power & Energy Society General Meeting (PESGM)*, 2024, pp. 1–5.
 
 <!--
@@ -60,24 +60,24 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 1. 2025 IEEE Transactions on Sustainable Energy Outstanding Reviewer, Dec 2025. 
 1. Doctoral Student Program of the Young S&T Talents Cultivation Project, Jan 2025.
-- 2024 IEEE PESGM PCCC Student Research Showcase Distinguished Speaker, Jul 2024.
-- 2022 IEEE Transactions on Smart Grid Best Paper Award, Jan 2023.
-- Gold Prize for Seoul International Invention Fair, Nov 2022.
-- Silver Prize for International Exhibition of Inventions of Geneva, Mar 2022.
-- Undergraduate National Scholarship, Dec 2025, 2022, 2021.
-- Pacemaker to Merit Student, Dec 2021.
-- Academic Star, Nov 2021.
+1. 2024 IEEE PESGM PCCC Student Research Showcase Distinguished Speaker, Jul 2024.
+1. 2022 IEEE Transactions on Smart Grid Best Paper Award, Jan 2023.
+1. Gold Prize for Seoul International Invention Fair, Nov 2022.
+1. Silver Prize for International Exhibition of Inventions of Geneva, Mar 2022.
+1. Undergraduate National Scholarship, Dec 2025, 2022, 2021.
+1. Pacemaker to Merit Student, Dec 2021.
+1. Academic Star, Nov 2021.
 
 # 📖 Educations
 1. *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 1. *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Talks
-## Invited Talks
+## 💬 Invited Talks
 1. *2025.09*, Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems, 17th International Conference on New Power System Technology, Hefei, China.
 1. *2022.04*, Convex Energy Functions for Natural Gas Systems and Applications, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China.
 
-## Oral Presentation
+## 💬 Oral Presentation
 1. *2024.07*, Benchmark datasets for fluid flow analysis, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA.
 
 <!--
