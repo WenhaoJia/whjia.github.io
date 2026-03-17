@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📝 Publications 
-## Journal Papers
+## 📖 Journal Papers
 1. **W. Jia**, T. Ding, and Y. He, “Synergistic integration of green hydrogen in renewable power systems: A comprehensive review of key technologies, research landscape, and future perspectives,” *Renewable and Sustainable Energy Reviews*, vol. 226, p. 116 375, 2026.
 1. **W. Jia**, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” *Applied Energy*, vol. 377, p. 124 369, 2025.
 1. **W. Jia**, T. Ding, Y. Yuan, and H. Zhang, “Fast probabilistic energy flow calculation for natural gas systems: A convex multiparametric programming approach,” *IEEE Transactions on Automation Science and Engineering*, vol. 22, pp. 6786–6796, 2025.
@@ -39,10 +39,10 @@ My research interest includes neural machine translation and computer vision. I 
 1. **W. Jia**, T. Ding, and M. Shahidehpour, “Second-order cone programming for data-driven fluid and gas energy flow with a tight reformulation,” *IEEE Transactions on Power Systems*, vol. 36, no. 2, pp. 1652–1655, 2021.
 1. **W. Jia**, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 68, no. 1, pp. 496–500, 2021.
 
-## Chinese Journal Papers
+## 📖 Chinese Journal Papers
 1. **W. Jia**, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” *Proceedings of the CSEE*, vol. 40, no. 24, 2020. (In Chinese)
 
-## Conference Papers
+## 📖 Conference Papers
 1. **W. Jia**, T. Ding, C. Mu, F. Song, C. Liang, and C. Chen, “Distributionally robust chance-constrained dispatch for mobile hydrogen energy systems under supply and demand uncertainties,” in *2024 IEEE Power & Energy Society General Meeting (PESGM)*, 2024, pp. 1–5.
 
 <!--
