@@ -29,8 +29,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 ## Journal Papers
-- **W. Jia**, T. Ding, and Y. He, “Synergistic integration of green hydrogen in renewable power systems: A comprehensive review of key technologies, research landscape, and future perspectives,” *Renewable and Sustainable Energy Reviews*, vol. 226, p. 116 375, 2026.
-- **W. Jia**, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” *Applied Energy*, vol. 377, p. 124 369, 2025.
+1. **W. Jia**, T. Ding, and Y. He, “Synergistic integration of green hydrogen in renewable power systems: A comprehensive review of key technologies, research landscape, and future perspectives,” *Renewable and Sustainable Energy Reviews*, vol. 226, p. 116 375, 2026.
+1. **W. Jia**, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” *Applied Energy*, vol. 377, p. 124 369, 2025.
 - **W. Jia**, T. Ding, Y. Yuan, and H. Zhang, “Fast probabilistic energy flow calculation for natural gas systems: A convex multiparametric programming approach,” *IEEE Transactions on Automation Science and Engineering*, vol. 22, pp. 6786–6796, 2025.
 - **W. Jia**, T. Ding, O. Han, C. Mu, and H. Zhang, “Benchmark datasets for fluid flow analysis,” *CSEE Journal of Power and Energy Systems*, vol. 11, no. 1, pp. 365–379, 2025. (ESI Highly Cited Paper)
 - **W. Jia**, T. Ding, and M. Shahidehpour, “Formulation and convexity of an approximate energy function for power system operation,” *IEEE Transactions on Power Systems*, vol. 38, no. 6, pp. 5961–5964, 2023.
