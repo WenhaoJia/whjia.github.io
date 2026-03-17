@@ -30,20 +30,20 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 ## Journal Papers
 - **W. Jia**, T. Ding, and Y. He, “Synergistic integration of green hydrogen in renewable power systems: A comprehensive review of key technologies, research landscape, and future perspectives,” *Renewable and Sustainable Energy Reviews*, vol. 226, p. 116 375, 2026.
-- <u><b>W. Jia</b></u>, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” **Applied Energy**, vol. 377, p. 124 369, 2025.
-- <u><b>W. Jia</b></u>, T. Ding, Y. Yuan, and H. Zhang, “Fast probabilistic energy flow calculation for natural gas systems: A convex multiparametric programming approach,” **IEEE Transactions on Automation Science and Engineering**, vol. 22, pp. 6786–6796, 2025.
-- <u><b>W. Jia</b></u>, T. Ding, O. Han, C. Mu, and H. Zhang, “Benchmark datasets for fluid flow analysis,” **CSEE Journal of Power and Energy Systems**, vol. 11, no. 1, pp. 365–379, 2025. (ESI Highly Cited Paper)
-- <u><b>W. Jia</b></u>, T. Ding, and M. Shahidehpour, “Formulation and convexity of an approximate energy function for power system operation,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5961–5964, 2023.
-- <u><b>W. Jia</b></u>, T. Ding, J. Bai, L. Bai, Y. Yang, and F. Blaabjerg, “Hybrid swapped battery charging and logistics dispatch model in continuous time domain,” **IEEE Transactions on Vehicular Technology**, vol. 71, no. 3, pp. 2448–2458, 2022.
-- <u><b>W. Jia</b></u>, T. Ding, C. Huang, Z. Wang, Q. Zhou, and M. Shahidehpour, “Convex optimization of integrated power-gas energy flow model with applications to probabilistic energy flow,” **IEEE Transactions on Power Systems**, vol. 36, no. 2, pp. 1432–1441, 2021.
-- <u><b>W. Jia</b></u>, T. Ding, and M. Shahidehpour, “Second-order cone programming for data-driven fluid and gas energy flow with a tight reformulation,” **IEEE Transactions on Power Systems**, vol. 36, no. 2, pp. 1652–1655, 2021.
-- <u><b>W. Jia</b></u>, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” **IEEE Transactions on Circuits and Systems II: Express Briefs**, vol. 68, no. 1, pp. 496–500, 2021.
+- **W. Jia**, T. Ding, Y. Yuan, C. Mu, H. Zhang, S. Wang, Y. He, and X. Sun, “Decentralized distributionally robust chance-constrained operation of integrated electricity and hydrogen transportation networks,” *Applied Energy*, vol. 377, p. 124 369, 2025.
+- **W. Jia**, T. Ding, Y. Yuan, and H. Zhang, “Fast probabilistic energy flow calculation for natural gas systems: A convex multiparametric programming approach,” *IEEE Transactions on Automation Science and Engineering*, vol. 22, pp. 6786–6796, 2025.
+- **W. Jia**, T. Ding, O. Han, C. Mu, and H. Zhang, “Benchmark datasets for fluid flow analysis,” *CSEE Journal of Power and Energy Systems*, vol. 11, no. 1, pp. 365–379, 2025. (ESI Highly Cited Paper)
+- **W. Jia**, T. Ding, and M. Shahidehpour, “Formulation and convexity of an approximate energy function for power system operation,” *IEEE Transactions on Power Systems*, vol. 38, no. 6, pp. 5961–5964, 2023.
+- **W. Jia**, T. Ding, J. Bai, L. Bai, Y. Yang, and F. Blaabjerg, “Hybrid swapped battery charging and logistics dispatch model in continuous time domain,” *IEEE Transactions on Vehicular Technology*, vol. 71, no. 3, pp. 2448–2458, 2022.
+- **W. Jia**, T. Ding, C. Huang, Z. Wang, Q. Zhou, and M. Shahidehpour, “Convex optimization of integrated power-gas energy flow model with applications to probabilistic energy flow,” *IEEE Transactions on Power Systems*, vol. 36, no. 2, pp. 1432–1441, 2021.
+- **W. Jia**, T. Ding, and M. Shahidehpour, “Second-order cone programming for data-driven fluid and gas energy flow with a tight reformulation,” *IEEE Transactions on Power Systems*, vol. 36, no. 2, pp. 1652–1655, 2021.
+- **W. Jia**, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 68, no. 1, pp. 496–500, 2021.
 
 ## Chinese Journal Papers
-- <u><b>W. Jia</b></u>, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” **Proceedings of the CSEE**, vol. 40, no. 24, 2020. (In Chinese)
+- **W. Jia**, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” *Proceedings of the CSEE*, vol. 40, no. 24, 2020. (In Chinese)
 
 ## Conference Papers
-- <u><b>W. Jia</b></u>, T. Ding, C. Mu, F. Song, C. Liang, and C. Chen, “Distributionally robust chance-constrained dispatch for mobile hydrogen energy systems under supply and demand uncertainties,” in **2024 IEEE Power & Energy Society General Meeting (PESGM)**, 2024, pp. 1–5.
+- **W. Jia**, T. Ding, C. Mu, F. Song, C. Liang, and C. Chen, “Distributionally robust chance-constrained dispatch for mobile hydrogen energy systems under supply and demand uncertainties,” in *2024 IEEE Power & Energy Society General Meeting (PESGM)*, 2024, pp. 1–5.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
